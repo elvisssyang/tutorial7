@@ -1,0 +1,16 @@
+---
+title: "exampleEY"
+author: "Elvis Yang"
+date: '2022-04-13'
+output:
+  pdf_document:
+    toc:true
+    toc_depth:2
+    number_section:true 
+    
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
